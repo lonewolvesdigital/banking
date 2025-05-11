@@ -87,12 +87,11 @@ const AuthForm = ({ type }: { type: string }) => {
       <header className='flex flex-col gap-5 md:gap-8'>
           <Link href="/" className="cursor-pointer flex items-center gap-1">
             <Image 
-              src="/icons/logo.svg"
-              width={34}
-              height={34}
-              alt="Horizon logo"
+              src="/icons/logo-truly-white.svg"
+              width={68}
+              height={68}
+              alt="Truly Financial logo"
             />
-            <h1 className="text-26 font-ibm-plex-serif font-bold text-black-1">Horizon</h1>
           </Link>
 
           <div className="flex flex-col gap-1 md:gap-3">
