@@ -88,8 +88,8 @@ const AuthForm = ({ type }: { type: string }) => {
           <Link href="/" className="cursor-pointer flex items-center gap-1">
             <Image 
               src="/icons/logo-truly-white.svg"
-              width={68}
-              height={68}
+ width={500}
+ height={800}
               alt="Truly Financial logo"
             />
           </Link>

@@ -292,7 +292,9 @@
   }
 
   .form-btn {
-    @apply text-16 rounded-lg border border-bankGradient bg-bank-gradient font-semibold text-white shadow-form;
+ @apply text-16 rounded-lg border border-bankGradient font-semibold text-white shadow-form bg-gradient-to-r from-pink-300 via-blue-300 to-green-300;
+
+
   }
 
   .form-link {
